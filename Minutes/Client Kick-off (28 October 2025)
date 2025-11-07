@@ -1,0 +1,24 @@
+## Meeting – Client Kick-off (28 October 2025)
+**Attendees:** Maksym, Hussain, Tyle Cheng.
+**Duration:** 30 minutes (2:30 PM – 3:00 PM)  
+**Location:** SMB102 
+
+### 🎯 Agenda
+- Introduction to project brief and client expectations.  
+- Clarify project type, objectives, and deliverables.  
+- Confirm when supporting materials and legacy files would be provided.  
+
+### 🧩 Discussion Summary
+- The client introduced the overall task: **rebuilding a legacy TypeScript webpage** into a modern, modular system.  
+- Discussed general scope and confirmed that the new version must retain the same visual layout while improving scalability and modularity.  
+- The client explained that the **legacy site files and formal project brief** would be shared at a later date.  
+
+### ✅ Agreed Actions
+| Action | Responsible | Deadline |
+|--------|--------------|-----------|
+| Await project brief and legacy files from client | All | Pending delivery |
+| Set up Trello board and GitHub repo | Maksym | 3 Nov 2025 |
+
+### 📎 Notes
+- This was the **initial client kickoff meeting** confirming project start.  
+- Brief and relevant legacy-site files will be delivered by client later.  
