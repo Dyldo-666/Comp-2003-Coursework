@@ -1,0 +1,42 @@
+# 📝 Internal Team Meeting – 12 November 2025  
+**Project:** Rebuilding of TypeScript Webpage to a Modern Modular System  
+**Module:** COMP2003 – Rebuilding TypeScript  
+**Team:** Group 33  
+**Attendees:** Maksym Lypai, Dylan Moore, Hussain Nazir, Joe Naduvila 
+**Absent:** Joe Nadvila Veedu Jose  
+**Duration:** 18:00 – 19:00  
+**Location:** Online
+
+---
+
+## 🎯 Agenda
+- Review progress of Sprint 1 documentation  
+- Discuss task allocation for Sprint 2  
+- Confirm next meeting date and short-term objectives  
+
+---
+
+## 🧩 Discussion Summary
+- Maksym presented the **newly completed Design Documents** (LegacyAnalysis, ComponentMapping, SystemOverview, TechStackDecision, and Project Plan).  
+- The team reviewed the **Trello board** and discussed which tasks should move to *Done* and which should remain *In Progress*.  
+- Dylan confirmed he will start work on **“Define modular component structure”**, planning to reorganise the component hierarchy for the rebuild.  
+- Dylan and Hussain will collaborate on **“Create initial wireframes”** for the redesigned pages (Home, Our Story, Pricing).  
+- The team agreed to **re-check completed Sprint 1 tasks** and verify all GitHub uploads before the next meeting.  
+- The **next team meeting** will be held on **14 November 2025**, to review wireframes, modular design progress, and confirm Sprint 2 kickoff.  
+
+---
+
+## ✅ Agreed Actions
+| Action | Responsible | Deadline |
+|--------|--------------|-----------|
+| Start defining modular structure for rebuild | Dylan | 16 Nov 2025 |
+| Create initial wireframes for main pages | Dylan & Hussain | 16 Nov 2025 |
+| Re-check completed documentation and GitHub uploads | All | 16 Nov 2025 |
+| Prepare to start Sprint 2 tasks after next meeting | Team | 16 Nov 2025 |
+
+---
+
+## 📎 Notes
+- This meeting for the preparing for transition from Sprint 1 to Sprint 2**.  
+- Team will review new Trello updates and confirm readiness for prototype work in the next session.  
+- Maksym will continue managing documentation and GitHub commits for Sprint 1 closure.
