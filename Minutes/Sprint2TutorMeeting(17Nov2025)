@@ -1,0 +1,105 @@
+# 📝 Tutor Meeting – Sprint 2  
+**Date:** 8 November 2025  
+**Time:** 14:00 – 14:30  
+**Location:** University of Plymouth / Online  
+**Module:** COMP2003 – Rebuilding TypeScript  
+**Team:** Group 33  
+**Tutor:** [Tutor Name]
+
+**Attendees:**  
+- Maksym Lypai (Project Manager)  
+- Dylan Moore (Frontend Developer)  
+
+**Absent:**  
+- Hussain Nazir (UI/UX Designer) – not present in lecture  
+- Joe Nadvila Veedu Jose (Backend/Security) – not present in lecture  
+
+> *Tutor explicitly noted that Hussain and Joe were not present during the session.*
+
+---
+
+## 🎯 Purpose of Meeting
+To review the completion of Sprint 1, receive tutor feedback, and update Sprint 2–3 expectations based on project difficulty.
+
+---
+
+## 🧩 Discussion Summary
+
+### 1. **Sprint 1 Review**
+- Tutor reviewed all Sprint 1 deliverables:
+  - LegacyAnalysis  
+  - ComponentMapping  
+  - SystemOverview  
+  - TechStackDecision  
+  - Project Plan  
+  - Risk Assessment  
+  - KPIs  
+  - Meeting minutes  
+- Tutor confirmed all Sprint 1 work was completed to a high standard.  
+- Trello board and documentation structure were also approved.
+
+---
+
+### 2. **Key Tutor Feedback**
+#### 🚨 Project must be fully rebuilt by the **end of Sprint 3**
+Tutor stated:
+> “The project is too easy for you. You should comfortably finish the full rebuild before the end of Sprint 3.”
+
+This means:
+- Faster development pace  
+- Rebuild moved earlier  
+- Semester 2 sprints will be for polish, testing, enhancements  
+
+---
+
+### 3. **Sprint 2 Requirements**
+Tutor expects Sprint 2 to deliver:
+- Modern Next.js project created  
+- Global layout complete (Navbar + Footer)  
+- Home page fully rebuilt  
+- Wireframes for all main pages  
+- First Vercel deployment  
+
+---
+
+### 4. **Sprint 3 Requirements**
+By end of Sprint 3:
+- All pages rebuilt  
+- Blog + dynamic routing working  
+- Basic API routes implemented  
+- Entire site responsive and accessible  
+- Final deployment ready  
+- Interim Presentation completed  
+
+---
+
+### 5. **Team Attendance & Accountability**
+- **Only Maksym and Dylan were present** for this meeting.  
+- Tutor noted **Joe and Hussain must stay updated** and stay engaged with the accelerated timeline.  
+- Maksym will brief the absent team members and update Trello accordingly.
+
+---
+
+## 📌 Decisions Made
+| Decision | Outcome |
+|----------|----------|
+| Complete full rebuild by end of Sprint 3 | Approved (required by tutor) |
+| Update Sprint Plan | Completed same day |
+| Start rebuild immediately | Required |
+| Maintain weekly check-ins | Required |
+| Ensure all members attend or review meeting updates | Required |
+
+---
+
+## 🗓️ Next Tutor Meeting
+**Date:**  November 2025  
+**Agenda:**  
+- Review Home page rebuild  
+- Review wireframes  
+- Approve modular structure  
+- Confirm Sprint 3 deliverables  
+
+---
+
+## 📁 File Location
+`/Design Documents/Minutes/2025-11-08_TutorMeeting_Sprint2.md`
