@@ -62,6 +62,12 @@ To review Sprint 2 progress, update Trello tasks, confirm implementation directi
 - Confirmed versioning and naming consistency.
 - Prepared documentation required for Sprint 2 review.
 
+### 6. **Created a basic layout for the SourceCode**
+app/our-story/page.tsx
+app/privacy/page.tsx
+app/api/health/route.ts
+app/api/blog/route.ts
+lib/api.ts
 ---
 
 ## 📌 Decisions Made
