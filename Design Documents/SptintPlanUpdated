@@ -1,0 +1,169 @@
+# 📅 Updated Sprint Plan – Group 33 (Semester 1)
+**Module:** COMP2003 – Rebuilding TypeScript  
+**Team:** Group 33  
+**Project:** Rebuilding of TypeScript Webpage to a Newer Modern System  
+**Updated:** 8 November 2025 (per tutor instruction)
+
+---
+
+## 🟣 Sprint 1 – Research & Documentation (✅ Completed)
+
+### 🎯 Goal
+Set up all project tools, analyse the legacy system, assign roles, and complete all required documentation.
+
+---
+
+### ✅ Completed Deliverables
+- **Project Setup**
+  - GitHub Classroom repository created  
+  - Trello Agile board set up with labels & workflow  
+  - PebblePad project page created  
+- **Documentation Completed**
+  - `SystemOverview.md`  
+  - `LegacyAnalysis.md`  
+  - `ComponentMapping.md`  
+  - `TechStackDecision.md`  
+  - `RiskAssessment.md`  
+  - `KPIs.md`  
+  - `ProjectPlan_Group33.docx` and `.md`  
+- **Meetings Logged**
+  - Client Kickoff (28 Oct 2025)  
+  - Tutor Meeting (5 Nov 2025)  
+  - Internal Team Meeting (7 Nov 2025)  
+- **Team**
+  - Roles assigned (PM, UI/UX, FE, BE)
+  - Rebuild plan agreed
+
+---
+
+### 🟢 Outcome
+Sprint 1 is fully complete.  
+Team now has:
+- Strong understanding of legacy system  
+- Clear rebuild plan  
+- Complete documentation and structure ready for development  
+
+---
+
+# 🟡 Sprint 2 – Core System Build
+**Dates:** 11 November – 22 November 2025
+
+### 🎯 Goal
+Build the core structure of the new system and fully rebuild the **Home page**.
+
+---
+
+### 📌 Sprint 2 Deliverables
+
+#### 🏗️ Core Project Setup
+Create new `modern-site/` project using:
+- Next.js (App Router)  
+- React 18  
+- TypeScript  
+- Tailwind CSS (latest v3)  
+
+#### 🧩 Layout & Structure
+Implement:
+- `app/layout.tsx`  
+- Navbar  
+- Footer  
+- Global styling & metadata  
+
+Create shared folders:
+components/layout/
+components/header/
+components/footer/
+components/ui/
+components/marketing/
+lib/api.ts
+
+#### 🏠 Homepage Rebuild
+- Hero  
+- Features  
+- How It Works  
+- Partners  
+- CTA  
+- Slideshow / marketing blocks  
+
+#### 🎨 Design
+- Wireframes for Home, Our Story, Pricing  
+
+#### ☁️ Deployment
+- Early prototype deployed to **Vercel**
+
+---
+
+### 👥 Team Allocation (Sprint 2)
+| Member | Responsibility |
+|--------|----------------|
+| **Dylan** | Next.js setup, layout, Home page |
+| **Hussain** | Wireframes, UI design, Tailwind visuals |
+| **Joe** | API planning, security checks |
+| **Maksym** | Documentation, Trello, Evidence Log, QA |
+
+---
+
+# 🟢 Sprint 3 – Full Rebuild Completion
+**Dates:** 25 November – 6 December 2025
+
+### 🎯 Goal
+Finish all major pages, implement API routes, polish UI/UX, and prepare for Interim Presentation.
+
+---
+
+### 📌 Sprint 3 Deliverables
+
+#### 📄 Page Rebuilds
+- Our Story  
+- Pricing  
+- Pricing → Payment  
+- Privacy Policy  
+- Blog page (`/blog`)  
+- Blog dynamic route (`/blog/[id]`)  
+
+#### 🔀 API Routes (Next.js App Router)
+- `/api/health`  
+- `/api/blog` (mock JSON data)
+
+#### 📱 Responsiveness + Accessibility
+- Fully responsive layouts  
+- WCAG **2.1 AA**  
+- Lighthouse:
+  - Accessibility ≥ **90**  
+  - Performance ≥ **80**
+
+#### 🖼️ Media Optimisation
+- Replace `<img>` → Next.js `<Image>`  
+- Responsive image sizes  
+
+#### ☁️ Deployment
+- Final Vercel deployment  
+- Stable link ready for client & tutor
+
+#### 🖥️ Interim Presentation Prep
+- Slides  
+- Rebuild summary  
+- System demo flow  
+
+---
+
+### 👥 Team Allocation (Sprint 3)
+| Member | Responsibility |
+|--------|----------------|
+| **Dylan** | Rebuild remaining pages, blog routing |
+| **Hussain** | UI polish, accessibility, responsiveness |
+| **Joe** | API stubs, deployment config, security |
+| **Maksym** | QA testing, documentation, Evidence Log, presentation |
+
+---
+
+# 🎯 Final Outcome (End of Sprint 3)
+By **6 December 2025** the team will deliver:
+- Fully rebuilt modern site (Next.js + React 18 + TypeScript + Tailwind)  
+- All main pages implemented  
+- Navigation and API routes working  
+- Accessible, responsive, optimised UI  
+- Final Vercel deployment  
+- Documentation ready for Interim Presentation  
+
+---
