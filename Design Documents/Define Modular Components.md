@@ -13,6 +13,7 @@ Navbar	Top navigation, includes links, logo, dropdowns.
 Footer	Global footer with links, socials, copyright.
 LayoutWrapper	Root wrapper for pages — handles spacing, max-width grid, etc.
 SectionWrapper	Used to standardize padding, spacing, alignment for all sections.
+
 🔷 Global UI Elements
 Component	Purpose
 Button	Primary, secondary, ghost, icon-only.
@@ -22,18 +23,21 @@ Modal	Reusable popup modal with animations.
 Card	Generic card wrapper for content, used across features.
 Badge	Small tag indicators (new, beta, category).
 Spinner / Loader	Global loading animation.
+
 🔷 Data Display Components
 Component	Purpose
 Carousel	Reusable image or content slider (wrapper for Swiper).
 Accordion	FAQ sections, collapsible lists.
 Tabs	Switch between tab contents.
 StatsGrid	Display metrics (numbers, icons, labels).
+
 🔷 Form Components
 Component	Purpose
 FormField	Wrapper for label + error text.
 Checkbox	Checkboxes with form integration.
 RadioGroup	Multiple-choice selections.
 SubmitButton	Button with loading state for forms.
+
 🔷 Feedback Components
 Component	Purpose
 ToastProvider	Wrapper for react-hot-toast.
@@ -66,7 +70,7 @@ src/components/
   feedback/
     Alert.tsx
     EmptyState.tsx
-
+    
 2. Modular Component Structure (Feature-Based Architecture)
 
 You will define separate modules for each feature or page.
@@ -176,4 +180,7 @@ src/modules/contact/
   /hooks           # Global hooks
   /utils           # Pure helper functions
   /types           # Global TS types
+
   /pages           # Next.js page routes
+
+
