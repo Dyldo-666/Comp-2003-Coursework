@@ -70,6 +70,7 @@ src/components/
   feedback/
     Alert.tsx
     EmptyState.tsx
+    
 2. Modular Component Structure (Feature-Based Architecture)
 
 You will define separate modules for each feature or page.
@@ -181,4 +182,5 @@ src/modules/contact/
   /types           # Global TS types
 
   /pages           # Next.js page routes
+
 
