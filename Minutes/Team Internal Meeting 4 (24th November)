@@ -11,7 +11,7 @@ Duration: 4:00pm–7:00pm
 Get a better understanding of the project by reviewing the legacy client system and rebuilding the modern folder structure that will support development throughout the rest of Sprint 2.
 
 🍀 Tasks Completed
-Task	Description	Status:
+
 ✅ Folder Structure Rebuild	Recreated a clean, modular folder architecture for the new Next.js system (app/, components/, api/, etc.). Ensured consistency across both developer environments.	
 ✅ Legacy Client System Review	Studied the old client project structure, including routing, components, and styling. Identified outdated patterns and documented required modernisation.	
 ✅ Mapping Old → New Architecture	Compared the legacy layout to the planned modern structure and mapped how each page and component will be reconstructed.
